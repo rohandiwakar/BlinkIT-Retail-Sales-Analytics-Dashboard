@@ -121,7 +121,8 @@ BlinkIT-Retail-Sales-Analytics-Dashboard
 ├── blinkit.pbix
 ├── README.md
 └── Demo
-    └── Screenshot 2026-05-30 021733.png
+    └── DashBoard.png
+    └── DashBoard_Recording.mp4
 ```
 ## Business Impact
 
