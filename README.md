@@ -10,7 +10,7 @@ The dashboard enables business stakeholders to monitor key performance indicator
 
 ## Dashboard Preview
 
-![Dashboard Preview](Demo/Screenshot 2026-05-30 021733.png)
+![Dashboard Preview](Demo/DashBoard.png)
 
 ---
 
