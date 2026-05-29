@@ -114,13 +114,15 @@ The dataset contains information related to:
 
 ## Project Structure
 
+```text
+BlinkIT-Retail-Sales-Analytics-Dashboard
+│
 ├── BlinkIT Grocery Data.xlsx
 ├── blinkit.pbix
-├── Dashboard Screenshot.png
-└── README.md
-
----
-
+├── README.md
+└── Demo
+    └── Screenshot 2026-05-30 021733.png
+```
 ## Business Impact
 
 This dashboard helps management:
